@@ -5,9 +5,7 @@ Stata Code for homework solutions.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+In order to run the various code for each of the homework solutions one must have access to Stata. 
+The verisons of Stata used will be evident within the dofiles posted. 
 
-### Prerequisites
-
-What things you need to install the software and how to install them
 
